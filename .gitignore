@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Virtual Envs
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+node_modules
